@@ -2,7 +2,7 @@
 
 I'm a Computer Science student passionate about **building impactful software**, exploring **cybersecurity**, and making cool things with **code & creativity**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/robert-pianezza-826292264/)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
 ---
@@ -16,11 +16,12 @@ I'm a Computer Science student passionate about **building impactful software**,
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## ⚙️ Tech Stack & Tools I Have Experience With
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -38,18 +39,28 @@ I'm a Computer Science student passionate about **building impactful software**,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 
 ### 🔐 Security
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F73B00?style=flat&logo=burpsuite&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-000000?style=flat&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-yellow?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
+![ffuf](https://img.shields.io/badge/ffuf-3E3E3E?style=flat&logo=ghost&logoColor=white)
+
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagneticZebra&show_icons=true&theme=tokyonight&border_radius=8&hide_title=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagneticZebra&layout=compact&theme=tokyonight&border_radius=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MagneticZebra&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=8)
 
 ---
 

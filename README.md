@@ -50,17 +50,6 @@ I'm a Computer Science student passionate about **building impactful software**,
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
 ![ffuf](https://img.shields.io/badge/ffuf-3E3E3E?style=flat&logo=ghost&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagneticZebra&show_icons=true&theme=tokyonight&border_radius=8&hide_title=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagneticZebra&layout=compact&theme=tokyonight&border_radius=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MagneticZebra&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=8)
-
 ---
 
 ## ✨ Fun Facts

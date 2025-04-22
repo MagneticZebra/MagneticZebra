@@ -3,7 +3,6 @@
 I'm a Computer Science student passionate about **building impactful software**, exploring **cybersecurity**, and making cool things with **code & creativity**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/robert-pianezza-826292264/)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
 ---
 

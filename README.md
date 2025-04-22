@@ -1,4 +1,4 @@
-# Hi there, I'm Robert Pianezza! 🚀
+# Hi there, I'm Robert Pianezza!
 
 I'm a Computer Science student passionate about **building impactful software**, exploring **cybersecurity**, and making cool things with **code & creativity**.
 

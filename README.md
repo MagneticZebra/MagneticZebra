@@ -49,11 +49,3 @@ I'm a Computer Science student passionate about **building impactful software**,
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
 ![ffuf](https://img.shields.io/badge/ffuf-3E3E3E?style=flat&logo=ghost&logoColor=white)
-
----
-
-## ✨ Fun Facts
-
-- 🏍️ I ride a Ninja 300
-- 🧠 I built [MindScape](https://mindscapeapplication.netlify.app/) — a mental health app with journaling & self-improvement tools
-- 🙏 I'm driven by faith, purpose, and making a real difference in people’s lives
